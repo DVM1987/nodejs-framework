@@ -1,0 +1,9 @@
+{
+    "domain" :"http://localhost:3000",
+    "mongodb" : {
+        "server" :"nodeexpress.my5b1.mongodb.net",
+        "username" : "muoi",
+        "password" : "TLptdZTdZEYfBtZs",
+        "dbname": "mean2023"
+    }
+}  
